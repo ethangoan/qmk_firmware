@@ -18,3 +18,6 @@
 [submodule "lib/printf"]
 	path = lib/printf
 	url = https://github.com/qmk/printf
+[submodule "keyboards/lily58/keymaps/ethan58"]
+	path = keyboards/lily58/keymaps/ethan58
+	url = https://github.com/ethangoan/ethan58.git
